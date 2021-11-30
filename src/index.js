@@ -79,7 +79,6 @@ function init() {
     wineGlass = root.getObjectByName('Cylinder')
 
     wineGlass.material = material
-    wineGlass.material.needsUpdate = true
     render()
   })
 
