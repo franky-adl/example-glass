@@ -67,7 +67,6 @@ function init() {
     specularColor: params.specularColor,
     opacity: params.opacity,
     side: THREE.DoubleSide,
-    transparent: true
   } );
 
   const gltf_loader = new GLTFLoader();
