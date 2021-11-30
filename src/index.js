@@ -14,7 +14,7 @@ const params = {
   opacity: 1,
   metalness: 0,
   roughness: 0,
-  ior: 1.45,
+  ior: 1.52,
   thickness: 0.1,
   specularIntensity: 1,
   specularColor: 0xffffff,
